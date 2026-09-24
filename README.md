@@ -12,6 +12,12 @@ Cap! is a React web app that creates website screenshots with the [ApiFlash API]
 - Track the remaining ApiFlash monthly quota.
 - Responsive custom interface built with CSS Grid and Flexbox.
 
+## Screenshots
+
+### Empty form
+
+![Cap empty form](docs/images/empty-form.png)
+
 ## Tech stack
 
 - React 19
