@@ -28,7 +28,7 @@ Cap! is a React web app that creates website screenshots with the [ApiFlash API]
 
 ## Video demo
 
-[Watch the Cap! demo](docs/images/demo.mov)
+https://github.com/user-attachments/assets/82c16c62-bb8b-458f-b62d-f4cbff3e73cd
 
 ## Tech stack
 
